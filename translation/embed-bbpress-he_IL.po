@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: embed-bbpress 0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-18 23:23+0200\n"
+"PO-Revision-Date: 2009-11-18 23:34+0200\n"
+"Last-Translator: Asaf Chertkoff <asaf@freeallweb.org>\n"
+"Language-Team: FreeAllWeb GUILD <support@freeallweb.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: embed-bbpress.php:61
+msgid "Options saved."
+msgstr "האפשרויות נשמרו."
+
+#: embed-bbpress.php:65
+msgid "embed BBpress 0.8"
+msgstr "embed BBpress - גרסה 0.8"
+
+#: embed-bbpress.php:66
+msgid "technically, this plugin was built for embeding the external home page of BBpress, after the installation, in the easiest way i could think of. However, because the method is so simple, one can use it for embeding any HTML page he wants."
+msgstr "טכנית, התוסף הזה נבנה על מנת להטמיע את הדף הבית החיצוני של הפורום BBpress, לאחר ההתקנה, כמובן, בצורה הכי פשוטה שיכולתי לחשוב עליה. עם זאת, מכיוון שהשיטה הזו כל-כך פשוטה, ניתן להטמיע בה כל אובייקט html אחר."
+
+#: embed-bbpress.php:67
+msgid "note: the purpose was the ease of use, and not elegancy. we could made it more complicated by trying to force the forum to have the site template or something like this. but we didn't."
+msgstr "הערה: מטרת התוסף הייתה שימוש פשוט למשתמש, לא אלגנטיות. יכולנו לעשות משהו מסובך ולנסות לכפות על הפורום את התבנית של האתר או משהו כזה. אבל לא עשינו זאת."
+
+#: embed-bbpress.php:68
+msgid "for suggestions about further development "
+msgstr "להצעות לגבי פיתוח עתידי "
+
+#: embed-bbpress.php:68
+msgid "mail me"
+msgstr "שלח לי דוא\"ל"
+
+#: embed-bbpress.php:69
+msgid "Step-By-Step Setting "
+msgstr "הגדרה בצעדים פשוטים:"
+
+#: embed-bbpress.php:70
+msgid "1. Install BBpress."
+msgstr "התקן את BBpress."
+
+#: embed-bbpress.php:71
+msgid "2. Load the special embedable template "
+msgstr "טען את קבצי התבנית המעוצבת להטמעה "
+
+#: embed-bbpress.php:71
+msgid "from here"
+msgstr "מכאן"
+
+#: embed-bbpress.php:71
+msgid " and upload the entire folder as it is to 'bb-templates' in the root of the forum directory."
+msgstr " והעלה את כל התקיה לתוך bb-templates שבספרייה הראשית של הפורום שלך."
+
+#: embed-bbpress.php:72
+msgid "3. Activate 'Embed BBpress', copy the forum home URL to the first field and choose the width and height of your desire (without \"px's\")."
+msgstr "3. הפעל את 'Embed BBpress', העתק את כתובת דף הבית של הפרום לשדה הראשון ובחר את הרוחב והגובה הרצויים לך (בלי \"px\", רק מספרים)."
+
+#: embed-bbpress.php:73
+msgid "4. Create a new page, and paste the shortcode [EmbedBBpress] inside it ."
+msgstr "4. צור דף חדש, והדבק את הקוד [EmbedBBpress] בתוכו, במקום הרצוי."
+
+#: embed-bbpress.php:74
+msgid "5. You're good to go."
+msgstr "5. סע לשלום. המפתחות בפנים."
+
+#: embed-bbpress.php:77
+msgid "Settings"
+msgstr "הגדרות"
+
+#: embed-bbpress.php:81
+msgid "URL of Home page to embed:"
+msgstr "כתובת URL של דף הבית שאנו מעוניים להטמיע:"
+
+#: embed-bbpress.php:84
+msgid "width of frame:"
+msgstr "רוחב חלון ההטמעה:"
+
+#: embed-bbpress.php:85
+msgid "height of frame:"
+msgstr "גובה חלון ההטמעה:"
+
+#: embed-bbpress.php:87
+msgid "save settings"
+msgstr "שמור הגדרות"
+
+#: embed-bbpress.php:89
+msgid "If you want to give something back:"
+msgstr "אם אתה מעוניין לתת משהו חזרה:"
+
+#: embed-bbpress.php:91
+msgid "My Amazon Wishlist"
+msgstr "רשימת הבקשות שלי מאמזון"
+
+#: embed-bbpress.php:104
+msgid "Click here if the forum doesn't open by itself"
+msgstr "לחץ כאן אם הפורום לא נפתח מעצמו"
+

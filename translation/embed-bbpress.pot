@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-18 23:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: embed-bbpress.php:61
+msgid "Options saved."
+msgstr ""
+
+#: embed-bbpress.php:65
+msgid "embed BBpress 0.8"
+msgstr ""
+
+#: embed-bbpress.php:66
+msgid "technically, this plugin was built for embeding the external home page of BBpress, after the installation, in the easiest way i could think of. However, because the method is so simple, one can use it for embeding any HTML page he wants."
+msgstr ""
+
+#: embed-bbpress.php:67
+msgid "note: the purpose was the ease of use, and not elegancy. we could made it more complicated by trying to force the forum to have the site template or something like this. but we didn't."
+msgstr ""
+
+#: embed-bbpress.php:68
+msgid "for suggestions about further development "
+msgstr ""
+
+#: embed-bbpress.php:68
+msgid "mail me"
+msgstr ""
+
+#: embed-bbpress.php:69
+msgid "Step-By-Step Setting "
+msgstr ""
+
+#: embed-bbpress.php:70
+msgid "1. Install BBpress."
+msgstr ""
+
+#: embed-bbpress.php:71
+msgid "2. Load the special embedable template "
+msgstr ""
+
+#: embed-bbpress.php:71
+msgid "from here"
+msgstr ""
+
+#: embed-bbpress.php:71
+msgid " and upload the entire folder as it is to 'bb-templates' in the root of the forum directory."
+msgstr ""
+
+#: embed-bbpress.php:72
+msgid "3. Activate 'Embed BBpress', copy the forum home URL to the first field and choose the width and height of your desire (without \"px's\")."
+msgstr ""
+
+#: embed-bbpress.php:73
+msgid "4. Create a new page, and paste the shortcode [EmbedBBpress] inside it ."
+msgstr ""
+
+#: embed-bbpress.php:74
+msgid "5. You're good to go."
+msgstr ""
+
+#: embed-bbpress.php:77
+msgid "Settings"
+msgstr ""
+
+#: embed-bbpress.php:81
+msgid "URL of Home page to embed:"
+msgstr ""
+
+#: embed-bbpress.php:84
+msgid "width of frame:"
+msgstr ""
+
+#: embed-bbpress.php:85
+msgid "height of frame:"
+msgstr ""
+
+#: embed-bbpress.php:87
+msgid "save settings"
+msgstr ""
+
+#: embed-bbpress.php:89
+msgid "If you want to give something back:"
+msgstr ""
+
+#: embed-bbpress.php:91
+msgid "My Amazon Wishlist"
+msgstr ""
+
+#: embed-bbpress.php:104
+msgid "Click here if the forum doesn't open by itself"
+msgstr ""
